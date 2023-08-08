@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjay Patel
-- 👀 I’m currently learning pursuing Bachelor's in Technology
+- 👀 I’m currently pursuing Bachelor's in Technology
 
 
 <!---

@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Sanjay Patel
-- 👀 I’m currently pursuing Bachelor's in Technology
+👋 Hi, I’m Sanjay Patel
+🎓 I recently graduated with a Bachelor's in Technology in Mathematics and Computing
+👀 I’m currently focusing on front-end development, with expertise in React.js
+🌱 I’m continually learning new technologies and solving coding challenges
+💼 Open to opportunities in web development
 
 
 <!---

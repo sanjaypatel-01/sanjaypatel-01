@@ -9,8 +9,13 @@ I enjoy building things that live on the internet, and I am always learning new 
 - 💼 Open to opportunities in web development
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://https://www.linkedin.com/in/sanjay-patel01/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail)](mailto:sanjaypatel5346@gmail.com)
+<a href="https://www.linkedin.com/in/sanjay-patel01/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:sanjaypatel5346@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+</a>
+
 
 ## Languages and Tools:
 <p align="left">

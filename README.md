@@ -10,11 +10,12 @@ I enjoy building things that live on the internet, and I am always learning new 
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/sanjay-patel01/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="mailto:sanjaypatel5346@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
 </a>
+
 
 
 ## Languages and Tools:

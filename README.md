@@ -14,6 +14,34 @@ sanjaypatel-01/sanjaypatel-01 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+# Hi 👋, I'm [Your Name]
+
+A passionate technology enthusiast from [Your Country] 🇮🇳
+
+- 🔭 I’m currently working on **[Your Current Project]**
+- 🌱 I’m currently learning **[Your Learning Focus]**
+- 👯 I’m looking to collaborate on **[Your Collaboration Topics]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 How to reach me **[Your Email]**
+- ⚡ Fun fact: **[Your Fun Fact]**
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/yourprofile) 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail)](mailto:youremail@gmail.com)
+
+### Languages and Tools:
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
+
+### GitHub Stats:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+
 
 ### 🚀 A tech enthusiast and lifelong learner from [Your City], [Your Country] 🇮🇳
 

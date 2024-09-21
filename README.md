@@ -8,16 +8,6 @@ I enjoy building things that live on the internet, and I am always learning new 
 - 🌱 I’m continually learning new technologies and solving coding challenges
 - 💼 Open to opportunities in web development
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/sanjay-patel01/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-</a>
-
-
-
 ## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>

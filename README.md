@@ -29,3 +29,5 @@ I enjoy building things that live on the internet, and I am always learning new 
 </div>
 
 
+![](https://komarev.com/ghpvc/?username=sanjaypatel-01)
+

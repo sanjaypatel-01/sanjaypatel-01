@@ -23,9 +23,9 @@ I enjoy building things that live on the internet, and I am always learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjaypatel-01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" style="margin-right: 15px;" />
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjaypatel-01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaypatel-01&layout=compact" alt="Top Languages" />
-</p>
+</div>
 
 

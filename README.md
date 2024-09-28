@@ -28,3 +28,5 @@ I enjoy building things that live on the internet, and I am always learning new 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaypatel-01&layout=compact" alt="Top Languages" />
 </div>
 
+
+![](https://komarev.com/ghpvc/?username=sanjaypatel-01)

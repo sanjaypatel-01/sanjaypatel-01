@@ -25,7 +25,7 @@ I enjoy building things that live on the internet, and I am always learning new 
 
 <div style="display: flex; justify-content: space-between; align-items: center; text-align: center; gap: 15px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjaypatel-01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" style="height: 190px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaypatel-01&layout=compact&bg_color=00000000&text_color=ffffff&card_width=320" alt="Top Languages" style="height: 190px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaypatel-01&layout=compact&bg_color=00000000&text_color=ffffff&card_width=310" alt="Top Languages" style="height: 190px;" />
 </div>
 
 
